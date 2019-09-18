@@ -1,0 +1,13 @@
+{
+  "name": "log_downloader",
+  "version": "1.0.0",
+  "description": "A small utility to retrieve a paginated log dump via Datadog's API.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
